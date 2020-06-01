@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoProjectApplication<DemoProject>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.AlanLyne.DemoProject.DemoProjectApplication",
+            "projectName": "DemoProject",
+            "args": ""
+        }
+    ]
+}
