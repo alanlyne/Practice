@@ -9,6 +9,26 @@
             "mainClass": "com.AlanLyne.DemoProject.DemoProjectApplication",
             "projectName": "DemoProject",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<course-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.alanlyne.courseapi.DemoApplication",
+            "projectName": "course-api",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-CourseApiApp<course-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.alanlyne.courseapi.CourseApiApp",
+            "projectName": "course-api",
+            "args": ""
         }
     ]
 }
