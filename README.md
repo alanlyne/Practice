@@ -1,14 +1,12 @@
-# Spring
+# Spring Boot
 1st - 7th June
 
 # Go
 8th -  
 
-# Kotlin
+# Kotlin / Android App Dev
 
-# Dart
-
-# Flutter
+# Dart / Flutter
 
 # Haskell
 
