@@ -5,6 +5,7 @@
 8th - 14th June
 
 # Kotlin / Android App Dev
+15th -
 
 # Dart / Flutter
 
