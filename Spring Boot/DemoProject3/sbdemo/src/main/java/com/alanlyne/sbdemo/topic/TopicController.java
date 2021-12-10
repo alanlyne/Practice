@@ -1,4 +1,4 @@
-package com.alanlyne.courseapi.topic;
+package com.alanlyne.sbdemo.topic;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
